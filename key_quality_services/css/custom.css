@@ -1,0 +1,29 @@
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+	.slider-title{
+		font-size:0.9em;
+	}
+	.cd-words-wrapper b{
+		font-size:0.5em;
+	}
+}
+
+.owl-wrapper{
+	width: auto !important; 
+    margin:0 auto;
+}
+
+.main-menu li.active > a{
+    color: #02bdd5 !important;
+}
+
+.cd-words-wrapper > b{
+	text-align:center;
+	line-height: 1.5em;
+}
+
+.blue-btn {
+    color: #fff !important; 
+    outline: none !important;
+    background: #02bdd5 !important; 
+}
